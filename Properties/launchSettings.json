@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "httpSMSBatch": {
+      "commandName": "Project",
+      "commandLineArgs": "-json \"J:\\My Drive\\Aux Cousinzins\\Communication\\inscriptions\\httpSMSBatch.json\""
+    }
+  }
+}

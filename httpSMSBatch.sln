@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "httpSMSBatch", "httpSMSBatch.csproj", "{FD09C21A-6D42-48A9-8579-7551F5376CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD09C21A-6D42-48A9-8579-7551F5376CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD09C21A-6D42-48A9-8579-7551F5376CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD09C21A-6D42-48A9-8579-7551F5376CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD09C21A-6D42-48A9-8579-7551F5376CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22B02EC2-4A77-40DB-8380-FA34DEE4E821}
+	EndGlobalSection
+EndGlobal
